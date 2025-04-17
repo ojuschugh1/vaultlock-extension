@@ -50,4 +50,4 @@ vaultlock-extension/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/vaultlock-extension.git
+   git clone https://github.com/ojuschugh1/vaultlock-extension.git
